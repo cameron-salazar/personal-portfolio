@@ -1,16 +1,39 @@
+import Image from "next/image";
+
 export default function Projects() {
     return (
       <section className="max-w-3xl mx-auto p-8">
         <h2 className="text-3xl font-semibold mb-6">Projects</h2>
-        <ul className="space-y-4">
-          <li className="rounded-xl border p-4">
-            <h3 className="font-medium">Arioso</h3>
-            <p className="text-sm text-gray-600">Social media web application for music lovers</p>
+        
+        <div className="rounded-xl border p-6 space-y-4 shadow-sm">
+          <h3 className="text-xl font-medium">Arioso</h3>
+          <p className="text-gray-500">Social media web application for music lovers</p>
+        </div>
 
-            <h4 className="font-medium">Vision Chess</h4>
-            <p className="text-sm text-gray-600">Web based application to play chess for the visually impaired</p>
-          </li>
-        </ul>
+        <div className="rounded-xl border p-6 space-y-4 shadow-sm">
+          <h4 className="text-xl font-medium">Vision Chess</h4>
+          <p className="text-gray-500">
+            A web-based, accessible application to play chess for the visually impaired.
+            It allows players to use arrow keys, the mouse, and voice commands in order to play. 
+            The application integrates drag-and-drop mechanics, speech synthesis, and speech recognition.
+            Unfortunately the video below does not provide audio, but please feel free to look at the repo. 
+          </p>
+
+          <video controls className="rounded-lg border w-full max-h-[400px]">
+            <source src="/videos/vision_chess.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+          
+          <div className="flex gap-4">
+            <a
+            href="https://github.com/bradlyhayes12/Chess-game-impairedvision"
+            target="_blank"
+            className="px-4 py-2 rounded-lg border bg-black text-white"
+            >
+              GitHub Repo
+            </a>
+          </div>
+        </div> 
       </section>
     );
   }
