@@ -5,9 +5,9 @@ export default function Projects() {
       <section className="max-w-3xl mx-auto p-8">
         <h2 className="text-3xl font-semibold mb-6">Projects</h2>
         
-        <div className="rounded-xl border p-6 space-y-4 shadow-sm">
-          <h3 className="text-xl font-medium">Arioso</h3>
-          <p className="text-gray-500">
+        <div className="border p-6 rounded-xl shadow-lg bg-white/70 dark:bg-black/60 backdrop-blur-sm">
+          <h3 className="text-xl font-medium font-semibold">Arioso</h3>
+          <p className="text-gray-550">
             Part of a small team, we built a social media web application for music lovers to connect, share, and connect through music.
             As part of the front-end team, I used React to make multiple components, such as the log in page, sign up page, create a post component and more, 
             and connected the UI with the Flask backend. 
@@ -31,9 +31,9 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="rounded-xl border p-6 space-y-4 shadow-sm">
-          <h4 className="text-xl font-medium">Vision Chess</h4>
-          <p className="text-gray-500">
+        <div className="border p-6 rounded-xl shadow-lg bg-white/70 dark:bg-black/60 backdrop-blur-sm">
+          <h4 className="text-xl font-medium font-semibold">Vision Chess</h4>
+          <p className="text-gray-550">
             Part of a small team, we built a web-based, accessible application to play chess for the visually impaired.
             The application integrates drag-and-drop mechanics, keyboard functionality, speech synthesis, and speech recognition in order to play.
             I focused on implementing the accessibility features and UI design.
@@ -58,9 +58,9 @@ export default function Projects() {
           </div>
         </div> 
 
-        <div className="rounded-xl border p-6 space-y-4 shadow-sm">
-          <h3 className="text-xl font-medium">Robot Arm w/ Rubber Duck</h3>
-          <p className="text-gray-500">
+        <div className="border p-6 rounded-xl shadow-lg bg-white/70 dark:bg-black/60 backdrop-blur-sm">
+          <h3 className="text-xl font-medium font-semibold">Robot Arm w/ Rubber Duck</h3>
+          <p className="text-gray-550">
             As part of a Blender workshop, I made a robot arm with a rubber duck at the end of it.
             I learned how to make multiple components, connected them, and learned how to move/animate them.
           </p>
