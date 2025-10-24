@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="min-h-[80vh] flex flex-col items-center justify-center px-6 text-center space-y-8">
       {/* Photo */}
-      <div className="relative w-40 h-40 rounded-full overflow-hidden border-4 border-black shadow-md">
+      <div className="relative w-60 h-60 rounded-full overflow-hidden border-4 border-black shadow-md">
         <Image
           src="/images/profile.jpg"          // put file at public/images/profile.jpg
           alt="Photo of Cameron Salazar"
@@ -22,6 +22,9 @@ export default function Home() {
         <h1 className="text-4xl font-bold tracking-tight">Cameron Salazar</h1>
         <p className="text-lg text-gray-600 dark:text-gray-300">
           A Software Engineer passionate about making experiences for people through tech.
+        </p>
+        <p className="text-sm text-gray-500">
+          Switch from light/dark mode for a fun feature.
         </p>
       </div>
 
