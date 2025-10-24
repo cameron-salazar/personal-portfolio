@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body className="min-h-screen bg-cover bg-center bg-[url('/images/light_bg.jpg')] dark:bg-[url('/images/dark_bg.jpg')]">
         <NavBar />
         {children}
       </body>

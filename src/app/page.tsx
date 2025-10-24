@@ -21,7 +21,7 @@ export default function Home() {
       <div className="space-y-2 max-w-xl">
         <h1 className="text-4xl font-bold tracking-tight">Cameron Salazar</h1>
         <p className="text-lg text-gray-600 dark:text-gray-300">
-          A Software Engineer passionate about making experiences for people through tech and code.
+          A Software Engineer passionate about making experiences for people through tech.
         </p>
       </div>
 
