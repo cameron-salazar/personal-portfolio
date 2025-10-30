@@ -7,7 +7,7 @@ export default function Home() {
       {/* Photo */}
       <div className="relative w-60 h-60 rounded-full overflow-hidden border-4 border-black shadow-md">
         <Image
-          src="/images/profile.jpg"          // put file at public/images/profile.jpg
+          src="/public/images/profile.jpg"          // put file at public/images/profile.jpg
           alt="Photo of Cameron Salazar"
           fill
           sizes="320px"                      // ask for crisp size
