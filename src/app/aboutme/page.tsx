@@ -54,8 +54,8 @@ export default function AboutMe() {
                 Texas State University.
                 Go Bobcats!
                 <br /> <br />
-                Outside of coding, I'm passionate about movies, video games, anime, and working out.
-                I'm an avid moviegoer who loves discussing films, and I've been a Nintendo fan for as long as I can remember.
+                Outside of coding, I&apos;m passionate about movies, video games, anime, and working out.
+                I&apos;m an avid moviegoer who loves discussing films, and I&apos;ve been a Nintendo fan for as long as I can remember.
                 My favorite franchise is The Legend of Zelda and I enjoy diving into animes like One Piece.
                 Most days, you can find me relaxing with YouTube or spending time at the gym.
                 <br /> <br />
