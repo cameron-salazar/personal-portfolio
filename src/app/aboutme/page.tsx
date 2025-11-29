@@ -54,14 +54,14 @@ export default function AboutMe() {
                 Texas State University.
                 Go Bobcats!
                 <br /> <br />
-                Some of my interests are: movies, video games, anime, working out, and YouTube.
-                I am an avid movie goer, love going to the movies and discussing them. It all started with Harry Potter and the Infinity saga from Marvel.
-                I am a big Nintendo fan with my favorite franchise being the Legend of Zelda and found my love for fighting games through Super Smash Bros.
-                I watch a few animes, but my favorite is One Piece. I love to workout and I would say my main source of entertainment is YouTube.
+                Outside of coding, I'm passionate about movies, video games, anime, and working out.
+                I'm an avid moviegoer who loves discussing films, and I've been a Nintendo fan for as long as I can remember.
+                My favorite franchise is The Legend of Zelda and I enjoy diving into animes like One Piece.
+                Most days, you can find me relaxing with YouTube or spending time at the gym.
                 <br /> <br />
-                I first discovered coding in high school and quickly became fascinated with how things can be made with just a few lines of code.
-                I enjoy creating things through code and solving problems along the way to make a great final project.
-                I hope to create or be apart of projects that can help and bring joy to people.
+                I discovered coding in high school and quickly became fascinated that something meaningful can be created using only lines of code.
+                Over time, I realized how much I loved solving problems, building projects, and watching my ideas come to life.
+                I hope to contribute to software that helps people, inspires creativity, and brings joy.
                 <br /> <br />
                 <br /> <br />
             </p>
